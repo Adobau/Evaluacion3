@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/App_Crud_Mysql.iml" filepath="$PROJECT_DIR$/.idea/modules/App_Crud_Mysql.iml" group="App_Crud_Mysql" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="App_Crud_Mysql/app" />
+    </modules>
+  </component>
+</project>
